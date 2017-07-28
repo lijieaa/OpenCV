@@ -2,5 +2,7 @@
 
 # 2.引用OpenCV SDK
 
-2.1![](/assets/1.3.5.png)
+## 2.1 新建属性管理文件，以便后续工程引用OpenCV SDK![](/assets/1.3.5.png)
+
+
 
