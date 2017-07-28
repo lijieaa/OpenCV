@@ -10,49 +10,37 @@
 
 ## 2.3 新建main.cpp，加入如下代码，开始我们的程序
 
-\#include&lt;iostream&gt;  
+\#include&lt;iostream&gt;
 
-\#include &lt;opencv2/core/core.hpp&gt;  
+\#include &lt;opencv2/core/core.hpp&gt;
 
-\#include &lt;opencv2/highgui/highgui.hpp&gt;  
-
-
-
-
+\#include &lt;opencv2/highgui/highgui.hpp&gt;
 
 using namespace cv;
-
-
-
-
 
 int main\(\)
 
 {
 
-	// 读入一张图片
+```
+// 读入一张图片
 
-	Mat img = imread\("1.jpg"\);
+Mat img = imread("1.jpg");
 
-	// 创建一个名为 "HelloWorld"窗口  
+// 创建一个名为 "HelloWorld"窗口  
 
-	namedWindow\("HelloWorld"\);
+namedWindow("HelloWorld");
 
-	// 在窗口中显示一个美女
+// 在窗口中显示一个美女
 
-	imshow\("HelloWorld", img\);
+imshow("HelloWorld", img);
 
-	// 等待输入任意键退出
+// 等待输入任意键退出
 
-	waitKey\(\);
+waitKey();
+```
 
 }
 
 **注意运行的时候选择X64,因为前面所做的配置是针对X64的。**
-
-
-
-
-
-
 
