@@ -8,5 +8,9 @@
 
 ![](/assets/1.3.6.png)![](/assets/1.3.7.png)![](/assets/1.3.8.png)**为什么选择opencv\_world320d.lib，不选择opencv\_world320.lib？原因是opencv以d结束的库代表调试版本。**
 
+## 2.3 新建main.cpp，开始我们的程序
+
+
+
 
 
