@@ -46,11 +46,7 @@ waitKey();
 
 ![](/assets/1.3.9.png)
 
-
-
 # 3.见证奇迹时刻
 
-
-
-![](/assets/1.3.10png)
+![](/assets/1.3.10png)美女出现了，是不是很简单，我们的HelloWorld就开发完成了。
 
