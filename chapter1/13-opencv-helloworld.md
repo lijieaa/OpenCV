@@ -6,9 +6,5 @@
 
 ## 2.2双击OpenCV属性管理器文件,添加附加包含目录和链接库
 
-![](/assets/1.3.6.png)
-
-
-
-
+![](/assets/1.3.6.png)![](/assets/1.3.7.png)![](/assets/1.3.8.png)为什么选择opencv\_world320d.lib，不选择opencv\_world320.lib？原因是
 
